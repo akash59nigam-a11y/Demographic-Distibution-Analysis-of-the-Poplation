@@ -1,0 +1,2 @@
+# Demographic-Distibution-Analysis-of-the-Poplation
+The project focuses on visualizing demographic data using bar charts and histograms. It analyzes the distribution of categorical and continuos variables such as gender and age, providing clear insights into  population characteristics. The visualizations help identify patterns, trends and data distribution effectively for analysis and reporting.  
